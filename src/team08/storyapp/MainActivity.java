@@ -1,4 +1,6 @@
-package com.example.storyapp;
+package team08.storyapp;
+
+import com.example.storyapp.R;
 
 import android.os.Bundle;
 import android.app.Activity;
